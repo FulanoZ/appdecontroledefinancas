@@ -135,6 +135,23 @@ Refinamos o prompt para incluir uma lógica de **Parsing de Intenção** (NLP si
 2.  **Regex Inteligente:** Filtros que removem palavras do contexto de "Meta" antes de capturar o valor, evitando que números de modelos (iPhone 15, PS5) sejam lidos como dinheiro.
 3.  **Contexto:** Separação estrita entre "Despesa", "Receita" e "Meta" baseada em palavras-chave.
 
+### Reflexão
+
+#### O que funcionou bem?
+- A geração inicial da interface (UI) com React e Tailwind foi extremamente rápida e visualmente agradável, tanto no Lovable quanto no Bolt/Claude.
+- A estratégia de usar um arquivo HTML único ("No-Build") facilitou muito o deploy e o compartilhamento do projeto final sem configurações complexas.
+- O conceito de "Context API" para manter o estado do chat entre as abas funcionou perfeitamente após o ajuste no prompt.
+
+#### O que não funcionou como o esperado?
+- A lógica inicial de interpretação de texto (NLP) da IA foi simplista demais, confundindo números de produtos (ex: "PS5") com valores monetários.
+- A persistência de dados e histórico do chat falhou nas primeiras versões ao navegar entre as telas, exigindo uma refatoração da arquitetura de estado.
+- O reconhecimento de moeda brasileira (R$ 3.500 vs 3,50) precisou de regras explícitas de Regex para não seguir o padrão americano.
+
+#### O que aprendeu sobre conversar com IAs?
+- A importância da especificidade técnica nos prompts: pedir "um app financeiro" gera algo genérico; pedir "um parser que ignore números seguidos de texto" resolve problemas reais.
+- Que a IA atua melhor quando você divide o problema: primeiro a interface, depois a lógica de estado, e por fim as regras de validação de dados.
+- Iterar entre diferentes ferramentas (Lovable -> Bolt -> Claude) é uma estratégia válida para superar limitações de créditos ou capacidade de raciocínio de cada modelo.
+
 ---
 
 ## 🚀 Como Rodar Localmente
