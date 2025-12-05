@@ -51,6 +51,3 @@ Como o projeto é um arquivo único, é extremamente simples:
 
 ## 📄 Licença
 Projeto desenvolvido para fins educacionais. Sinta-se livre para usar e modificar.
-
----
-*Desenvolvido com 💚 e Inteligência Artificial.*
