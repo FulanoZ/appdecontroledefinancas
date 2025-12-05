@@ -9,7 +9,7 @@
 
 ## PRD refinado no Perplexity com correções de erros
 
-''' Markdown
+```Markdown 
 Role: Você é um Tech Lead e Desenvolvedor Fullstack Sênior.
 Projeto: Criar um MVP de App de Finanças Pessoais (Mobile First) chamado "FinChat".
 Stack: React (Vite), Tailwind CSS, Lucide React (ícones), Context API.
@@ -85,7 +85,7 @@ components/SummaryTab.tsx
 components/GoalsTab.tsx
 
 Estilo: Use Tailwind para um visual limpo, moderno e verde (tema financeiro). Utilize cores escuras para ficar agradavel aos olhos
-'''
+```
 
 ---
 
