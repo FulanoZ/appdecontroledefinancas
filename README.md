@@ -5,7 +5,7 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green) ![IA](https://img.shields.io/badge/AI-Powered-blueviolet)
 
 ## 🔗 Demo Online
-👉 **[Clique aqui para testar o App]([https://seu-usuario.github.io/finchat-mvp/](https://claude.ai/public/artifacts/b502cc62-8fd6-4442-99bc-983d762e0ed3))**
+👉 **[Clique aqui para testar o App](https://claude.ai/public/artifacts/b502cc62-8fd6-4442-99bc-983d762e0ed3)**
 
 ---
 
