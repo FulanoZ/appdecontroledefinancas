@@ -97,6 +97,8 @@ Interações com o Claude
 
 > O que eu disse foi resolvido, ele arrumou. Porém identifiquei outro problema. Na primeira imagem, eu pedi para ele criar uma nova meta de comprar um PS5 (play station 5) ele adicionou um gasto de 5 reais erroneamente e nao criou a meta. Depois, pedi pra ele apagar todas as metas e ele nao entendeu. Preciso de um app que funcione com todas as funcionalidades.
 
+> Site resultado final: https://claude.ai/public/artifacts/b502cc62-8fd6-4442-99bc-983d762e0ed3
+
 ---
 
 ## 🛠️ Tecnologias
