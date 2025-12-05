@@ -99,6 +99,9 @@ Interações com o Claude
 
 Site resultado final: https://claude.ai/public/artifacts/b502cc62-8fd6-4442-99bc-983d762e0ed3
 
+<img width="672" height="940" alt="image" src="https://github.com/user-attachments/assets/4f029ec1-4d61-4c8d-9823-6c1333f67107" />
+<img width="670" height="936" alt="image" src="https://github.com/user-attachments/assets/12952673-d2c7-411e-8f2f-faee8f56032c" />
+
 ---
 
 ## 🛠️ Tecnologias
