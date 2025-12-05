@@ -87,6 +87,13 @@ components/GoalsTab.tsx
 Estilo: Use Tailwind para um visual limpo, moderno e verde (tema financeiro). Utilize cores escuras para ficar agradavel aos olhos
 ```
 
+Interações com o Claude
+
+> Olá, preciso criar um APP com vibe coding para um trabalho de um curso. Preciso que voce crie {PRD}
+> PS5 (play station 5) ele adicionou um gasto de 5 reais erroneamente e nao criou a meta. Depois, pedi pra ele apagar todas as metas e ele nao entendeu. Preciso de um app que funcione com todas as funcionalidades.
+> outro problema, eu peço para ele resetar os gastos, ele diz que fez, mas quando vou na aba "resumos" ele mantem o mesmo valor de R$ 639,90. Outro problema é que o histórico do chat desaparece quando eu navego entre as abas do app.
+> O que eu disse foi resolvido, ele arrumou. Porém identifiquei outro problema. Na primeira imagem, eu pedi para ele criar uma nova meta de comprar um PS5 (play station 5) ele adicionou um gasto de 5 reais erroneamente e nao criou a meta. Depois, pedi pra ele apagar todas as metas e ele nao entendeu. Preciso de um app que funcione com todas as funcionalidades.
+
 ---
 
 ## 🛠️ Tecnologias
