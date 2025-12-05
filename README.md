@@ -85,7 +85,7 @@ components/SummaryTab.tsx
 components/GoalsTab.tsx
 
 Estilo: Use Tailwind para um visual limpo, moderno e verde (tema financeiro). Utilize cores escuras para ficar agradavel aos olhos
-
+'''
 
 ---
 
